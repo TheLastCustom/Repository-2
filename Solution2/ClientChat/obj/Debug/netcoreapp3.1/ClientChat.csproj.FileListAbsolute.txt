@@ -1,0 +1,12 @@
+C:\Users\alcat\source\repos\Solution2\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.exe
+C:\Users\alcat\source\repos\Solution2\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.deps.json
+C:\Users\alcat\source\repos\Solution2\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.runtimeconfig.json
+C:\Users\alcat\source\repos\Solution2\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.runtimeconfig.dev.json
+C:\Users\alcat\source\repos\Solution2\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.dll
+C:\Users\alcat\source\repos\Solution2\ClientChat\bin\Debug\netcoreapp3.1\ClientChat.pdb
+C:\Users\alcat\source\repos\Solution2\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.AssemblyInfoInputs.cache
+C:\Users\alcat\source\repos\Solution2\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.AssemblyInfo.cs
+C:\Users\alcat\source\repos\Solution2\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.csproj.CoreCompileInputs.cache
+C:\Users\alcat\source\repos\Solution2\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.dll
+C:\Users\alcat\source\repos\Solution2\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.pdb
+C:\Users\alcat\source\repos\Solution2\ClientChat\obj\Debug\netcoreapp3.1\ClientChat.genruntimeconfig.cache

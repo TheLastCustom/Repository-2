@@ -1,0 +1,13 @@
+C:\Users\alcat\source\repos\Solution1\ServerChat\bin\Debug\netcoreapp3.1\ServerChat.exe
+C:\Users\alcat\source\repos\Solution1\ServerChat\bin\Debug\netcoreapp3.1\ServerChat.deps.json
+C:\Users\alcat\source\repos\Solution1\ServerChat\bin\Debug\netcoreapp3.1\ServerChat.runtimeconfig.json
+C:\Users\alcat\source\repos\Solution1\ServerChat\bin\Debug\netcoreapp3.1\ServerChat.runtimeconfig.dev.json
+C:\Users\alcat\source\repos\Solution1\ServerChat\bin\Debug\netcoreapp3.1\ServerChat.dll
+C:\Users\alcat\source\repos\Solution1\ServerChat\bin\Debug\netcoreapp3.1\ServerChat.pdb
+C:\Users\alcat\source\repos\Solution1\ServerChat\obj\Debug\netcoreapp3.1\ServerChat.csproj.AssemblyReference.cache
+C:\Users\alcat\source\repos\Solution1\ServerChat\obj\Debug\netcoreapp3.1\ServerChat.AssemblyInfoInputs.cache
+C:\Users\alcat\source\repos\Solution1\ServerChat\obj\Debug\netcoreapp3.1\ServerChat.AssemblyInfo.cs
+C:\Users\alcat\source\repos\Solution1\ServerChat\obj\Debug\netcoreapp3.1\ServerChat.csproj.CoreCompileInputs.cache
+C:\Users\alcat\source\repos\Solution1\ServerChat\obj\Debug\netcoreapp3.1\ServerChat.dll
+C:\Users\alcat\source\repos\Solution1\ServerChat\obj\Debug\netcoreapp3.1\ServerChat.pdb
+C:\Users\alcat\source\repos\Solution1\ServerChat\obj\Debug\netcoreapp3.1\ServerChat.genruntimeconfig.cache
